@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "experimentalDecorators": true,
+    "baseUrl": "./src",
+    "paths": {
+      "~*": ["./*"]
+    },
+    "esModuleInterop": true
+  },
+  "include": ["src/**/*"]
+}
